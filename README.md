@@ -6,7 +6,7 @@ Hello, I'm Amy!  I am a student at Lambda learning Data Science.  I want to comb
 
 - 🔭 I’m currently working on ... Group project building a Road Trip application
 - 🌱 I’m currently learning ...FASTAPI
-- 👯 I’m looking to collaborate on ... python 
+- 👯 I’m looking to collaborate on ... anything python 
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ... Bees and data wrangling
 - 📫 How to reach me: ... amy.beisel@gmail.com or [Linkedin](https://www.linkedin.com/in/amy-beisel-685751148/)
