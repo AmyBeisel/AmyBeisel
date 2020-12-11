@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there  👋
 
 
 
-Here are some ideas to get you started:
+Hello, I'm Amy!  I am a student at Lambda learning all thing Data Science.  I want to combine the skills that I have obtained throughout my life - hard work, empathy, commitment, and spirit - with my newly-honed expertise in Data Analysis, Machine Learning, and Computer Science.
 
 - 🔭 I’m currently working on ... Group project building a Road trip app. 
 - 🌱 I’m currently learning ...FASTAPI
