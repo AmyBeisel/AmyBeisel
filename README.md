@@ -9,7 +9,7 @@ Hello, I'm Amy!  I am a student at Lambda learning Data Science.  I want to comb
 - 👯 I’m looking to collaborate on ... python 
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ... Bees and data wrangling
-- 📫 How to reach me: ... amy.beisel@gmail.com
+- 📫 How to reach me: ... amy.beisel@gmail.com or [Linkedin](https://www.linkedin.com/in/amy-beisel-685751148/)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am 2018 Elite Marathon Mountain Bike National Champion. I Love Bikes! 
 
