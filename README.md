@@ -6,7 +6,7 @@ Hello, I'm Amy!  I am a Lambda graduate in Data Science.  I want to combine the 
 
 - 🔭 I’m currently working on... Django and Restful API project
 - 🌱 I’m currently learning... always python
-- 👯 I’m looking to collaborate on... Anything python 
+- 👯 I’m looking to collaborate on... anything python 
 - 🤔 I’m looking for help with... AWS
 - 📫 How to reach me: amy.beisel@gmail.com or [Linkedin](https://www.linkedin.com/in/amy-beisel-685751148/)
 - 😄 Pronouns: She/Her
